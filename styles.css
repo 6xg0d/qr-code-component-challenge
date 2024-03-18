@@ -14,9 +14,6 @@ body {
 	align-items: center;
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
-
 .card-body {
 	width: 320px;
 	height: 497px;
